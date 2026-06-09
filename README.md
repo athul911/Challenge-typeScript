@@ -29,7 +29,7 @@ Table of Contents
 
     Clone the repository:
     git clone https://github.com/athul911/AIQ-typeScript.git
-    cd AIQ-typescript
+    cd Challenge-typescript
 
     Docker:
      ** docker-compose up -d** ( Easy way,spins up 2 containers;1 for app and 1 for the db )
@@ -52,7 +52,7 @@ Table of Contents
     http://localhost:3000/api-docs
 
 ##Running Unit Tests
-    cd AIQ-typescript
+    cd Challenge-typescript
     npm test
 
 
