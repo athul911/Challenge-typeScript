@@ -1,4 +1,4 @@
-# AIQ-typeScript
+# Challenge-typeScript
 
 Power Plants Visualization Backend
 
